@@ -8,7 +8,7 @@ usage:
 python3 portscan.py INPUT.txt
 
 INPUT.txt
-172.16.XXX.XXX
-172.16.XXX.XXX
-192.168.XXX.XXX
-10.0.XXX.XXX
+172.16.XXX.XXX</br>
+172.16.XXX.XXX</br>
+192.168.XXX.XXX</br>
+10.0.XXX.XXX</br>
